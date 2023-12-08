@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamdas1511" alt="anupamdas1511" /></a> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AHLivTdHv9rH_1LtVskYzp-cr7HRL4IX/view](https://drive.google.com/file/d/1AHLivTdHv9rH_1LtVskYzp-cr7HRL4IX/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1AHLivTdHv9rH_1LtVskYzp-cr7HRL4IX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
